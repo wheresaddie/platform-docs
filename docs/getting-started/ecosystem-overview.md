@@ -1,17 +1,27 @@
-# ecosystem overview
+# Frequency Ecosystem Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Frequency ecosystem is designed to empower builders, applications, and organizations to create open, user-centric ecosystems and experiences powered by decentralized protocols.
 
-## Overview
+## Key Components
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- **Parachain Infrastructure**  
+  Frequency operates as a live parachain, leveraging the security and interoperability of the broader Polkadot ecosystem. Bootnodes and telemetry endpoints are provided to ensure robust connectivity and network health.
 
-## Key Points
+- **Open Source Collaboration**  
+  The project is open source, with active repositories, issues tracking, and community contributions encouraged. Developers can contribute to the core protocol, node software, and supporting tools. Set PRs and Request for features [[here]]. 
 
-- Point 1: Lorem ipsum dolor sit amet
-- Point 2: Consectetur adipiscing elit
-- Point 3: Sed do eiusmod tempor incididunt
+- **Developer Resources**  
+  Extensive documentation, design documents, and getting-started guides are available for onboarding developers. These resources cover everything from node operations to protocol-level contributions 
 
-## Next Steps
+- **Node and Network Operations**  
+  Frequency supports running nodes in various configurations, including standalone collator nodes and nodes connected to relay chains, providing flexibility for developers and operators [[6]](https://poe.com/citation?message_id=402133773364&citation=6).
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- **Ecosystem Partners and Projects**  
+  The ecosystem is home to a growing number of partners and projects building on Frequency, driving innovation across decentralized social, messaging, and data storage applications.
+
+- **Licensing and Governance**  
+  Frequency is governed by the Frequency Network Foundation and released under the Apache 2.0 License, ensuring openness and community-driven development.
+  
+## Get Involved
+
+Developers and organizations are encouraged to join the ecosystem, contribute to the codebase, and launch new applications powered by Frequency. Join us. 
